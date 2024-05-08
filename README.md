@@ -1,3 +1,12 @@
+<p align="center">
+  <img src="http://img.shields.io/static/v1?label=STATUS&message=Concluded&color=blue&style=flat"/>
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/Rafa-KozAnd/Challenge-Lab_Natty-Or-Not">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/top/Rafa-KozAnd/Challenge-Lab_Natty-Or-Not">
+  <img alt="GitHub repo file count" src="https://img.shields.io/github/directory-file-count/Rafa-KozAnd/Challenge-Lab_Natty-Or-Not">
+  <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/Rafa-KozAnd/Challenge-Lab_Natty-Or-Not">
+  <img alt="GitHub language count" src="https://img.shields.io/github/license/Rafa-KozAnd/Challenge-Lab_Natty-Or-Not">
+</p>
+
 # Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
 
 ## 🚀 Introdução
@@ -49,3 +58,15 @@ Comente sobre o desafio de criar algo 'natty' com IA.
 [Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
 
 ![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+
+## Conclusão
+
+Seguindo a ideia base do desafio foi feito: 
+
+-> Uma imagem arte com IA:
+Tecnologia: Stable Diffusion Online
+Prompt: Vector illustration, pop art, very light pastel colored, watercolor, sketch, cardrifting, smoke, burn, 1 car, tuned JDM car, wide fenders, big rims, slammed, drifting:1.2, on the road, tokyo city, parking lot, beautiful landscape
+<div>
+  <img align="center" height="300" widht="300" src="/Ideias/Art-Image.jpeg" />
+</div><br>
+
